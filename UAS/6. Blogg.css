@@ -1,0 +1,32 @@
+.elemen {
+	width: 800px;
+	background-color: white;
+	margin: auto;
+	line-height:30px;
+	text-align: justify;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 450px;
+    width: 800px;
+    border-bottom: 5px solid lightskyblue;
+	border-top: 5px solid salmon;
+}
+
+
+P {
+	font-family: bold;
+	font-size: 35px;
+
+}
+
+p.left {
+	font-family: sans-serif;
+	font-size: 19px;
+	text-align-last: left;
+	text-indent: 50px;
+	padding: 30px;
+}
